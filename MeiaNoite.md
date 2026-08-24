@@ -1,10 +1,12 @@
 # Meia Noite
+
 ### Verso 1
 Um dia, o Filho do Homem retornará
 Com muito poder e glória Ele reinará
+
 ### Verso 2
 
-    Bumbo + Cx + Surdo
+    `Bumbo + Cx + Surdo`
 
         Mas quanto ao dia e a hora, quem saberá?
         Nem os anjos do céu, nem o Filho, somente o Pai
