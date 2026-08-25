@@ -4,8 +4,8 @@
 > **...**
 
 <small>
-Um dia, o Filho do Homem retornará<br>
-Com muito poder e glória Ele reinará
+    Um dia, o Filho do Homem retornará<br>
+    Com muito poder e glória Ele reinará
 </small>
 
 ### Verso 2
@@ -13,9 +13,9 @@ Com muito poder e glória Ele reinará
 > **Bumbo dobra + Cx + pratos abertos**
 
 <small>
-Mas quanto ao dia e a hora, quem saberá?<br>
-Nem os anjos do céu, nem o Filho, somente o Pai<br>
-Então vigiai e orai
+    Mas quanto ao dia e a hora, quem saberá?<br>
+    Nem os anjos do céu, nem o Filho, somente o Pai<br>
+    Então vigiai e orai
 </small>
 
 ### Pré-Refrão
