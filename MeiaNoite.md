@@ -1,47 +1,56 @@
 # Meia Noite
 
 ## Verso 1
-###### Um dia, o Filho do Homem retornará / Com muito poder e glória Ele reinará
+###### Um dia, o Filho do Homem retornará...
 
 > - **Nada**
 
 ## Verso 2
 ###### Mas quanto ao dia e a hora...
 
-> - **Bumbo | Cx | Surdo**  
-> - **Bumbo dobra + Cx + pratos abertos**
+> - **Bumbo + Cx + Surdo**  
+
 
 ## Pré-Refrão
 ###### Logo se ouvirá um grito ...
 
-> - **Bumbo + Cx + Surdo**
+> - **Bumbo + Cx + Surdo + Tons**
 
 ## Refrão
-###### Quando a meia-noite chegar, é necessário estar / Com a chama acesa / O Filho do Homem virá, será que encontrará / Fé na Terra, fé na Terra?
+###### Quando a meia-noite chegar...
 
-> - **Groove Extremo, com todas as batidas**
+> - **Groove**
 
 ## Verso 1 (Reprise)
-###### Um dia, o Filho do Homem retornará / Mas quanto ao dia e a hora, quem saberá? / Uh, uh, uh
+###### Um dia, o Filho do Homem...
 
-> - **Groove (bumbo direto)... Pausa**
+> - **Groove**  (Pausa no final)
+
+## Verso 2 (Reprise)
+###### Mas quanto ao dia e a hora...
+
+> - **Groove**  (Pausa no final)
 
 ## Pré-Refrão
-###### Logo se ouvirá um grito / Eis o Noivo sobre os montes / Vamos ao Seu encontro
+###### Logo se ouvirá um grito...
 
-> - **Groove + tons**
+> - **Groove + Tons**  (Break no final)
 
 ## Refrão
-###### Quando a meia-noite chegar, é necessário estar / Com a chama acesa...
+###### Quando a meia-noite chegar...
 
 > - **Groove**
 
 ## Ponte
-###### Que a chama não se apague / Não deixe o óleo acabar
+###### Que a chama não se apague...
 
-> - **Rufi + Tons**
+> - **Rufo  + Tons** 
+> - **Rufo  + Tons** (Bumbo Direto) 
+
+###### Naõ deixe o a chama apagar...
+
+> - **Groove** (detalhe cx) 
 
 ## Refrão Final
-###### Quando a meia-noite chegar, é necessário estar / Com a chama acesa...
-
-> - **Groove (QUEBRADO)**
+###### Quando a meia-noite chegar
+> - **Groove** (Break)
