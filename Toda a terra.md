@@ -1,26 +1,41 @@
-### Intro
+# Toda a Terra
 
-### Verso
+## Intro
 
-### Pré-Refrao
+> - **...**
 
-### Interlúdio
+## Verso
 
-### Verso
-    Groove 
+> - **...**
 
-### Pré-Refrao 
-    Groove 
+## Pré-Refrão
 
-### Interlúdio 
-    Suave
+> - **...**
 
-### Ponte
-    Rufo cx
+## Interlúdio
 
-### Aleluia 
-    Pratos | Groove
+> - **...**
 
-### Pré-Refrao 
-    (Ataque) Groove (Frase)
-    
+## Verso
+
+> - **Groove**
+
+## Pré-Refrão
+
+> - **Groove**
+
+## Interlúdio
+
+> - **Suave**
+
+## Ponte
+
+> - **Rufo cx**
+
+## Aleluia
+
+> - **Pratos | Groove**
+
+## Pré-Refrão
+
+> - **(Ataque) Groove (Frase)**

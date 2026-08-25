@@ -1,84 +1,47 @@
 # Meia Noite
 
-## [Verso 1] 
-###### Um dia, o Filho do Homem ...
+## Verso 1
+###### Um dia, o Filho do Homem retornará / Com muito poder e glória Ele reinará
 
-> **... **
-
-
+> - **Nada**
 
 ## Verso 2
-###### Mas quanto ao dia e a hora, quem saberá ...
+###### Mas quanto ao dia e a hora...
 
-> - | **Bumbo + Cx + Surdo**
-> - | **Bumbo dobra + Cx + pratos abertos**
+> - **Bumbo | Cx | Surdo**  
+> - **Bumbo dobra + Cx + pratos abertos**
 
+## Pré-Refrão
+###### Logo se ouvirá um grito ...
 
+> - **Bumbo + Cx + Surdo**
 
-### Pré-Refrão
-> **Bumbo + Chimbal + Cx + Surdo**
+## Refrão
+###### Quando a meia-noite chegar, é necessário estar / Com a chama acesa / O Filho do Homem virá, será que encontrará / Fé na Terra, fé na Terra?
 
-Logo se ouvirá ...
+> - **Groove Extremo, com todas as batidas**
 
+## Verso 1 (Reprise)
+###### Um dia, o Filho do Homem retornará / Mas quanto ao dia e a hora, quem saberá? / Uh, uh, uh
 
-### Refrão
-> **Groove Extremo, com todas as batidas**
+> - **Groove (bumbo direto)... Pausa**
 
-Quando a meia-noite chegar ...
+## Pré-Refrão
+###### Logo se ouvirá um grito / Eis o Noivo sobre os montes / Vamos ao Seu encontro
 
+> - **Groove + tons**
 
-### Verso 1
-> **Groove (bumbo direto)... Pausa**
+## Refrão
+###### Quando a meia-noite chegar, é necessário estar / Com a chama acesa...
 
-Um dia, o Filho do Homem ...
+> - **Groove**
 
-### Verso 2
-> **Groove (bumbo direto)... Pausa**
+## Ponte
+###### Que a chama não se apague / Não deixe o óleo acabar
 
-Mas quanto ao dia e a hora, quem saberá ...
+> - **Rufi + Tons**
 
+## Refrão Final
+###### Quando a meia-noite chegar, é necessário estar / Com a chama acesa...
 
-### Pré-Refrão
-> **Groove + tons**
-
-<font size="1" color="gray">
-Logo se ouvirá um grito<br>
-Eis o Noivo sobre os montes<br>
-Logo se ouvirá um grito<br>
-Vamos ao Seu encontro<br>
-Vamos ao Seu encontro
-</font>
-
-### Refrão
-> **Groove**
-
-<font size="1" color="gray">
-Quando a meia-noite chegar, é necessário estar<br>
-Com a chama acesa<br>
-O Filho do Homem virá, será que encontrará<br>
-Fé na Terra, fé na Terra?
-</font>
-
-### Ponte
-> **Rufi + Tons**
-
-<font size="1" color="gray">
-Que a chama não se apague<br>
-Que a chama não se apague<br>
-Que a chama não se apague<br>
-Que a chama não se apague<br>
-(Que a chama) não deixe o óleo acabar, não deixe o óleo acabar<br>
-(Não se apague) não deixe o óleo acabar, não deixe o óleo acabar<br>
-(Que a chama) não deixe o óleo acabar, não deixe o óleo acabar<br>
-(Não se apague) não deixe o óleo acabar
-</font>
-
-### Refrão Final
-> **Groove (QUEBRADO)**
-
-<font size="1" color="gray">
-Quando a meia-noite chegar, é necessário estar<br>
-Com a chama acesa<br>
-O Filho do Homem virá, será que encontrará<br>
-Fé na Terra, fé na Terra?
-</font>
+> - **Groove (QUEBRADO)**
