@@ -3,7 +3,7 @@
 ### Verso 1
 > **... aatuuu**
 
-<font size="1" color="gray">
+<font size="0" color="gray">
 Um dia, o Filho do Homem retornará<br>
 Com muito poder e glória Ele reinará
 </font>
