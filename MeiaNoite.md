@@ -10,8 +10,8 @@
 ## Verso 2
 ###### Mas quanto ao dia e a hora, quem saberá ...
 
-> - | Bumbo + Cx + Surdo |
-> - Bumbo dobra + Cx + pratos abertos**
+> - | **Bumbo + Cx + Surdo**
+> - | **Bumbo dobra + Cx + pratos abertos**
 
 
 
