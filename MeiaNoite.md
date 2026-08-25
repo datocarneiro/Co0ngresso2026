@@ -1,33 +1,39 @@
 # Meia Noite
 
 ### Verso 1
-> **... aatuuu**
+> **... **
+
 Um dia, o Filho do Homem ...
 
 
 ### Verso 2
 > **Bumbo + Cx + Surdo**  
 > **Bumbo dobra + Cx + pratos abertos**
+
 Mas quanto ao dia e a hora, quem saberá ...
 
 
 ### Pré-Refrão
 > **Bumbo + Chimbal + Cx + Surdo**
+
 Logo se ouvirá ...
 
 
 ### Refrão
 > **Groove Extremo, com todas as batidas**
+
 Quando a meia-noite chegar ...
 
 
 ### Verso 1
 > **Groove (bumbo direto)... Pausa**
+
 Um dia, o Filho do Homem ...
 
 ### Verso 2
 > **Groove (bumbo direto)... Pausa**
-Mas quanto ao dia e a hora ...
+
+Mas quanto ao dia e a hora, quem saberá ...
 
 
 ### Pré-Refrão
